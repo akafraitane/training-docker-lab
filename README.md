@@ -275,17 +275,6 @@ You are free to:
 
 ## 🗺️ Roadmap
 
-### Coming Soon
-
-- [ ] Advanced networking scenarios
-- [ ] Kubernetes migration guide
-- [ ] Performance optimization workshop
-- [ ] Container security deep dive
-- [ ] GitOps with containers
-- [ ] Multi-architecture builds (ARM64)
-
----
-
 ## ⭐ If This Helped You
 
 If you found this workshop useful:
